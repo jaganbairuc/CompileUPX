@@ -126,7 +126,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td>Día no asistido</td>
+    <td>Día no asistido por enfermedad</td>
     <td>00:00</td>
     <td></td>
   </tr>
