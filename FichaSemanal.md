@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Continuación de la web de edición de imágenes: movilidad por flechas en als capas.</td>
+    <td>Continuación de la web de edición de imágenes: movilidad por flechas en als capas, remover objetos seleccionándolos directamente en el sanvas en lugar de tener que buscar su layer.</td>
     <td>6:30</td>
     <td></td>
   </tr>
