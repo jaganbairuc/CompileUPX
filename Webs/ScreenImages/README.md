@@ -64,8 +64,6 @@ until xset q >/dev/null 2>&1; do
   sleep 2
 done
 
-
-/path/to/your-app-or-script
 ```
 
 Tras esto, debo ejecutar unos comandos para que me detecte el archivo y todo funcione:
