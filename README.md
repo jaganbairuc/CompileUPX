@@ -34,6 +34,7 @@ El centro cuenta con una página web algo antigua y con cosas a mejorar, por lo 
 
 ### Música programable
 Se requiere encontrar alguna forma para programar una música para ser reproducida en algún momento específico y, así, poder poner música para los estudiantes en los cambios de clase.
+para poder hacerlo más "sencillo", se utilizó un escritorio remoto para poder controlar el ordenador desde otro dispositivo de la red y use utilizó [`Hot Alarm Clock`](https://hotalarmclock.com/) para progarmar de forma sencilla la música.
 
 ### Editor de imágenes por web
 Adicionalmente se me pide la creación de una nueva página web para el centro que sirva para editar imágenes como se desee para posteriormente poder ponerlo en pantalla completa.<br>
