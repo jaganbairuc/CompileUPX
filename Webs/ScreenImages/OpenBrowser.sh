@@ -7,6 +7,7 @@ xrandr --output HDMI-1 --auto
 sleep 10
 
 xset s off
+xset s noblank
 xset -dpms
 
 while true; do
