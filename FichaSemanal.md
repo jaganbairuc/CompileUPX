@@ -93,11 +93,11 @@
   </tr>
     <td>MARTES</td>
     <td>Continuación de la página de edición de imágenes, configuración de Linux para ejecutar un comando a la hora de iniciarse el dispositivo y comandos de Windows para encender y apagar pantallas cuando se desee de forma programable.</td>
-    <td>6:30</td>
+    <td>6:45</td>
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td></td>
+    <td>Continuación de la página web de edición de imágenes.</td>
     <td>6:30</td>
     <td></td>
   </tr>
