@@ -147,7 +147,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td>Adaptación de nuevo ordenador a las necesidades del trabajo + continuación de la página de edición de imágenes.</td>
+    <td>Adaptación de nuevo ordenador a las necesidades del trabajo + continuación de la página de edición de imágenes añadiendo la opción de insertar imágenes, editar los textos y arreglo de diversos bugs.</td>
     <td>6:30</td>
     <td></td>
   </tr>
