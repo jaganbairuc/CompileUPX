@@ -131,7 +131,7 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td>Continuación de la web de edición de imágenes: solución de bugs.</td>
+    <td>Continuación de la web de edición de imágenes: solución de bugs e implementación del sistema de rotación.</td>
     <td>6:30</td>
     <td></td>
   </tr>
