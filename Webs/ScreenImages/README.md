@@ -30,16 +30,15 @@ En mi caso personal con mi distribución no me funcionó, por lo que creé una a
 
 ```sh
 [Unit]
-Description=Runs once pc turns on
+Description=Open browser when PC powers on
 After=network.target
 
 [Service]
-ExecStart=/bin/bash -c 'sleep 5 && /home/usuario/Command.sh'
+ExecStart=/bin/bash /home/usuario/OpenBrowser.sh
 Restart=on-failure
 RestartSec=5
 User=usuario
 Group=usuario
-Environment="PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"
 Environment="HOME=/home/usuario"
 Environment="DISPLAY=:0"
 Type=simple
@@ -48,20 +47,6 @@ StandardError=syslog
 
 [Install]
 WantedBy=multi-user.target
-```
-
-Y, además, necesitaremos el siguiente código:
-
-```sh
-#!/bin/bash
-
-export DISPLAY=:0
-export XAUTHORITY=/home/usuario/.Xauthority
-
-until xset q >/dev/null 2>&1; do
-  sleep 2
-done
-
 ```
 
 Tras esto, debo ejecutar unos comandos para que me detecte el archivo y todo funcione:
