@@ -37,4 +37,4 @@ Se requiere encontrar alguna forma para programar una música para ser reproduci
 
 ### Editor de imágenes por web
 Adicionalmente se me pide la creación de una nueva página web para el centro que sirva para editar imágenes como se desee para posteriormente poder ponerlo en pantalla completa.<br>
-Este trabajo se encueentra en el directiroio [`./Webs/EditorDeImagenes`](./Webs/EditorDeImagenes).
+Este trabajo se encuentra en el directiroio [`./Webs/EditorDeImagenes`](./Webs/EditorDeImagenes).
