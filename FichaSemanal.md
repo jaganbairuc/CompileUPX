@@ -174,7 +174,7 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td></td>
+    <td>Continuación de la página web simple de edición de imágenes: solución de errores, botón de visualizar en pantalla completa.</td>
     <td>6:30</td>
     <td></td>
   </tr>
