@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Instalación de un nuevo sistema operativo para el miniordenador de secreataría y continuación de la web de edición de imágenes: movilidad por flechas en las capas, remover objetos seleccionándolos directamente en el sanvas en lugar de tener que buscar su layer, edición de colores.</td>
+    <td>Instalación de un nuevo sistema operativo para el miniordenador de secreataría y continuación de la web de edición de imágenes: movilidad por flechas en las capas, remover objetos seleccionándolos directamente en el canvas en lugar de tener que buscar su layer, edición de colores.</td>
     <td>6:30</td>
     <td></td>
   </tr>
