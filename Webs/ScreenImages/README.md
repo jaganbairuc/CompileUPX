@@ -46,6 +46,14 @@ StandardError=syslog
 WantedBy=graphical.target
 ```
 
+Tras esto, debo ejecutar unos comandos para que me detecte el archivo y todo functione:
+
+```sh
+systemctl daemon-reload
+systemctl enable <file>
+systemctl start <file>
+```
+
 Esto me permitirá ejecutar el comando guardado en `/home/usuario/Command.sh` nada más el usuario encienda el ordenador.
 
 Con esto escrito, veremos que cada vez que encendemos nuestro dispositovo, automáticamente se abre firefox en nuestra página HTML. Aunque adicionalmente, nosotros también queremos que, una vez se encienda el dispositvo, se encienda una pantalla.<br>
