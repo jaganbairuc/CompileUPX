@@ -142,12 +142,12 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Día no asistido por dificultades con el equipo.</td>
-    <td>00:00</td>
+    <td>Continuación de el editor de imágenes arreglando bugs e incorporando el sistema de insertado de imágenes + intento de arreglo de portátil tras habérsele roto la pila.</td>
+    <td>6:00</td>
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
+    <td>Adaptación de nuevo ordenador a las necesidades del trabajo + continuación de la página de edición de imágenes.</td>
     <td>6:30</td>
     <td></td>
   </tr>
