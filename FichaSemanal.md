@@ -228,3 +228,79 @@
     <td></td>
   </tr>
 </table>
+
+### Semana 7
+#### Semana del 12 al 16 de mayo de 2025
+<table>
+  <thead>
+    <th>DÍA</th>
+    <th>ACTIVIDAD DESARROLLADA</th>
+    <th>TIEMPO EMPLEADO</th>
+    <th>OBSERVACIONES</th>
+  </thead>
+  <tr>
+    <td>LUNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MARTES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MIÉRCOLES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JUEVES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>VIERNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+</table>
+
+### Semana 8
+#### Semana del 19 al 23 de mayo de 2025
+<table>
+  <thead>
+    <th>DÍA</th>
+    <th>ACTIVIDAD DESARROLLADA</th>
+    <th>TIEMPO EMPLEADO</th>
+    <th>OBSERVACIONES</th>
+  </thead>
+  <tr>
+    <td>LUNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MARTES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MIÉRCOLES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JUEVES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>VIERNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+</table>
