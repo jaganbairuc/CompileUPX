@@ -87,7 +87,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td>Continuación de la página web</td>
+    <td>Continuación de la página web del centro y creaciçon de un editor de imágenes por web local para el centro.</td>
     <td>6:30</td>
     <td></td>
   </tr>
