@@ -38,6 +38,8 @@ ExecStart=/bin/bash /home/usuario/Command.sh
 User=usuario
 Restart=on-failure
 RestartSec=5
+User=usuario
+Group=usuario
 Environment="PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"
 Environment="HOME=/home/usuario"
 Type=simple
