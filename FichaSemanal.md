@@ -164,7 +164,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td>Continuación de la página web de edición de imágenes sobre todo arreglando bugs y mejorando sistemas que, como tal, ya "functionaban correctamente" + sistema de escalado.</td>
+    <td>Continuación de la página web de edición de imágenes sobre todo arreglando bugs y mejorando sistemas que, como tal, ya "functionaban correctamente" + sistema de copia y pega de objetos + sistema de escalado empezado.</td>
     <td>6:30</td>
     <td></td>
   </tr>
