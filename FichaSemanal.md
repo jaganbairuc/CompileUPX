@@ -180,13 +180,13 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td></td>
-    <td>6:30</td>
+    <td>Día no asistido por fiesta.</td>
+    <td>0:00</td>
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
-    <td>6:30</td>
+    <td>Día no asistido por fiesta.</td>
+    <td>0:00</td>
     <td></td>
   </tr>
 </table>
