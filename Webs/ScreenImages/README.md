@@ -31,11 +31,10 @@ En mi caso personal con mi distribución no me funcionó, por lo que creé una a
 ```sh
 [Unit]
 Description=Runs once pc turns on
-After=graphical.target
-Wants=graphical.target
+After=network.target
 
 [Service]
-ExecStart=/bin/bash -c 'sleep 10 && /home/usuario/Command.sh'
+ExecStart=/bin/bash -c 'sleep 5 && /home/usuario/Command.sh'
 Restart=on-failure
 RestartSec=5
 User=usuario
@@ -43,7 +42,6 @@ Group=usuario
 Environment="PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"
 Environment="HOME=/home/usuario"
 Environment="DISPLAY=:0"
-Environment="XAUTHORITY=/home/usuario/.Xauthority"
 Type=simple
 StandardOutput=syslog
 StandardError=syslog
