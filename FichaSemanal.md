@@ -97,7 +97,7 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td>Continuación de la página web de edición de imágenes.</td>
+    <td>Continuación de la página web de edición de imágenes: Insertado de textos, creación de nuevos proyectos y movimiento (zoom y desplazamiento).</td>
     <td>6:30</td>
     <td></td>
   </tr>
