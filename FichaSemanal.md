@@ -169,8 +169,8 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td></td>
-    <td>6:30</td>
+    <td>Día no asistido debido al apagón auropeo.</td>
+    <td>00:00</td>
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
