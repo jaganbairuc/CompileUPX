@@ -126,7 +126,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
+    <td>Día no asistido</td>
     <td>6:30</td>
     <td></td>
   </tr>
