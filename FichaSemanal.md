@@ -218,7 +218,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td></td>
+    <td>Continuación de la página web de edición de imágenes mediante solución de errores y continucación de implementación de escalado + implantar música programable para que suene en los cambios de hora.</td>
     <td>6:30</td>
     <td></td>
   </tr>
