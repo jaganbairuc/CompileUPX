@@ -2,6 +2,8 @@ html, body {
     margin: 0;
     height: 100%;
 
+    cursor: none;
+
     background-color: black;
     background-position: center;
     background-size: cover;
