@@ -6,6 +6,16 @@ Para no dejar la pantalla sin uso alguno, se pensó que podría programarse de a
 # 🔨 Setup (Bash)
 
 Para poder usar este sistema, primero se deberá descargar la carpeta `Codes` junto el `index.html` en el mismo directorio.
+Primero, deberemos instalar las herramientas que necesitamos, por lo que:
+
+```sh
+sudo apt update
+sudo apt install cron
+sudo systemctl enable cron
+sudo systemctl start cron
+sudo systemctl status cron
+```
+
 Posteriormente, escribiremos los siguientes comandos:
 
 ```sh
