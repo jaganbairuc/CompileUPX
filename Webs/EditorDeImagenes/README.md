@@ -11,7 +11,7 @@ Cosas importantes a añadir:
   <li>Control de colores.</li>
   <li>Control de capas.</li>
   <li>Zoom.</li>
-  <li>Movimiento.</li>>
+  <li>Movimiento.</li>
   <li>Botón para visualizar en pantalla completa la imagen creada</li>
 </ul>
 
