@@ -92,7 +92,7 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td>Continuación de la página de edición de imágenes + configuración de Linux para ejecutar un comando a la hora de iniciarse el dispositivo.</td>
+    <td>Continuación de la página de edición de imágenes, configuración de Linux para ejecutar un comando a la hora de iniciarse el dispositivo y comandos de Windows para encender y apagar pantallas cuando se desee de forma programable.</td>
     <td>6:30</td>
     <td></td>
   </tr>
