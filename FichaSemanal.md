@@ -97,7 +97,7 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td>Continuación de la página web de edición de imágenes: Insertado de textos, creación de nuevos proyectos y movimiento (zoom y desplazamiento) y creación/eliminación de capas.</td>
+    <td>Instalación de un nuevo sistema operativo para el miniordenador de secreaaría y continuación de la página web de edición de imágenes: Insertado de textos, creación de nuevos proyectos y movimiento (zoom y desplazamiento) y creación/eliminación de capas.</td>
     <td>6:30</td>
     <td></td>
   </tr>
