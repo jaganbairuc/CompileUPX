@@ -170,7 +170,7 @@
   </tr>
     <td>MARTES</td>
     <td>Día no asistido debido al apagón auropeo.</td>
-    <td>00:00</td>
+    <td>0:00</td>
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
