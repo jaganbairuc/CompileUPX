@@ -94,6 +94,17 @@ xrandr --output <identificador> --off
 
 Esto, a continuación, puede ser que no nos funcione según qué tipo de distribución de Linux estemos utilizando. Por ejemplo, en mi caso, tengo Zorin OS, que usa GNOME y me genera problemas. Para ver si nos permite utilizar este comando `xrandr` correctamente, podemos ver si la variable `XDG_SESSION_TYPE` me da x11: si me da x11 podemos usar el mencionado comando, de lo contrario, si su valor `wayland`, tendremos que buscar alguna alternativa ya que puede ser que nos genere algún problema.
 
+Adicionalmente, también deberiamos desactivar el `sleep mode` automático una vez que el usuario se encuentra ausente, ya que no detectará ningún tipo de input por lo que se apagará por defecto.l Para cambiarlo, nos dirigimos al archivo `sudo nano /etc/systemd/logind.conf` y modificamos las siguientes opciones:
+
+#HandleSuspendKey=suspend -> HandleSuspendKey=ignore
+#HandleLidSwitch=suspend -> HandleLidSwitch=ignore
+
+Por último, actualizamos el servicio:
+
+```sh
+sudo systemctl restart systemd-logind
+```
+
 # 🔨 Setup (Batch)
 
 En Windows esto puede cambiar. Primero debemos crear un archivo .bat con el comando que queremos ejecutar una vez el dispositivo se encienda. En mi caso, es el siguiente:
