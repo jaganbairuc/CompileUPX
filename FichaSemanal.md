@@ -103,7 +103,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Instalación de un nuevo sistema operativo para el miniordenador de secreataría y continuación de la web de edición de imágenes: movilidad por flechas en als capas, remover objetos seleccionándolos directamente en el sanvas en lugar de tener que buscar su layer.</td>
+    <td>Instalación de un nuevo sistema operativo para el miniordenador de secreataría y continuación de la web de edición de imágenes: movilidad por flechas en las capas, remover objetos seleccionándolos directamente en el sanvas en lugar de tener que buscar su layer.</td>
     <td>6:30</td>
     <td></td>
   </tr>
@@ -117,6 +117,44 @@
 
 ### Semana 4
 #### Semana del 21 al 25 de abril de 2025
+<table>
+  <thead>
+    <th>DÍA</th>
+    <th>ACTIVIDAD DESARROLLADA</th>
+    <th>TIEMPO EMPLEADO</th>
+    <th>OBSERVACIONES</th>
+  </thead>
+  <tr>
+    <td>LUNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MARTES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MIÉRCOLES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JUEVES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>VIERNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+</table>
+
+### Semana 5
+#### Semana del 28 de abril al 2 de mayo de 2025
 <table>
   <thead>
     <th>DÍA</th>
