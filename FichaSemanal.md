@@ -207,7 +207,7 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td>Continuación con la reparación del sistema automático de imágenes del centro para recepción + continuación y solución de errores de la página web de edición de imágenes.</td>
+    <td>Continuación con la reparación del sistema automático de imágenes del centro para recepción + continuación y solución de errores de la página web de edición de imágenes (ya se puede controlar mucho más preciso por lo que es más fácil de trabajar con él).</td>
     <td>6:30</td>
     <td></td>
   </tr>
