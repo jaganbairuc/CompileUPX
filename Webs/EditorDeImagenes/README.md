@@ -13,6 +13,7 @@ Cosas importantes a añadir:
   <li>Zoom.</li>
   <li>Movimiento.</li>
   <li>Botón para visualizar en pantalla completa la imagen creada.</li>
+  <li>Botón de deshacer y rehacer.</li>
 </ul>
 
 #
