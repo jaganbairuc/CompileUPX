@@ -223,7 +223,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
+    <td>Comprobación del micrófono d e conserjería + continuación de la página web de edición de imágenes.</td>
     <td>6:30</td>
     <td></td>
   </tr>
