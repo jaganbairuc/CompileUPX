@@ -87,7 +87,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
+    <td>Continuación de la página web</td>
     <td>6:30</td>
     <td></td>
   </tr>
