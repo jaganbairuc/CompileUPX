@@ -31,10 +31,10 @@ En mi caso personal con mi distribución no me funcionó, por lo que creé una a
 ```sh
 [Unit]
 Description=Runs once pc turns on
-After=graphical.target
+After=graphical-session.target
 
 [Service]
-ExecStart=/bin/bash /home/usuario/Command.sh
+ExecStart=/bin/bash -c 'sleep 10 && /home/usuario/Command.sh'
 Restart=on-failure
 RestartSec=5
 User=usuario
