@@ -36,8 +36,9 @@ After=graphical.target
 [Service]
 ExecStart=/bin/bash /home/usuario/Command.sh
 User=usuario
-Environment=DISPLAY=:0
 Restart=on-failure
+RestartSec=5
+Type=simple
 StandardOutput=syslog
 StandardError=syslog
 
