@@ -46,7 +46,7 @@ StandardError=syslog
 WantedBy=graphical.target
 ```
 
-Tras esto, debo ejecutar unos comandos para que me detecte el archivo y todo functione:
+Tras esto, debo ejecutar unos comandos para que me detecte el archivo y todo funcione:
 
 ```sh
 systemctl daemon-reload
