@@ -105,6 +105,20 @@ Por último, actualizamos el servicio:
 sudo systemctl restart systemd-logind
 ```
 
+Adicionalmente y dependiendo de las preferencias, también se puede forzar a que nuestro sistema detecte un click para evitar el modo "sleep" automático instalando el siguiente paquete y ejecutando el siguiente script:
+
+```sh
+sudo apt install xdotool
+```
+
+```sh
+#!/bin/bash
+while true; do
+    xdotool click 1
+    sleep 60
+done
+```
+
 # 🔨 Setup (Batch)
 
 En Windows esto puede cambiar. Primero debemos crear un archivo .bat con el comando que queremos ejecutar una vez el dispositivo se encienda. En mi caso, es el siguiente:
