@@ -26,6 +26,27 @@ contrab -e
 @reboot DISPLAY=:<Index de la pantalla> firefox <ubicación del index.html> --kiosk 
 ```
 
+En mi caso personal con mi distribución no me funcionó, por lo que creé una archivo en el directorio `/etc/systemd/system/` donde albergo la siguiente información:
+
+```sh
+[Unit]
+Description=Runs once pc turns on
+After=graphical.target
+
+[Service]
+ExecStart=/bin/bash /home/usuario/Command.sh
+User=usuario
+Environment=DISPLAY=:0
+Restart=on-failure
+StandardOutput=syslog
+StandardError=syslog
+
+[Install]
+WantedBy=graphical.target
+```
+
+Esto me permitirá ejecutar el comando guardado en `/home/usuario/Command.sh` nada más el usuario encienda el ordenador.
+
 Con esto escrito, veremos que cada vez que encendemos nuestro dispositovo, automáticamente se abre firefox en nuestra página HTML. Aunque adicionalmente, nosotros también queremos que, una vez se encienda el dispositvo, se encienda una pantalla.<br>
 En este caso, usaremos el comando xrandr para realizar esta tarea. Pero antes requerimos conocer los identificados de cada pantalla mediante el siguiente comando:
 
