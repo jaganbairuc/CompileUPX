@@ -103,6 +103,14 @@ start chrome.exe index.html --start-fullscreen
 A continuación, debemos poner este archivo en un directorio específico. Para ello nos vamos a ejecutar un comando para irnos a la ruta (`Windows+R`) poniendo `shell:startup`.<br>
 Ahora, si reiniciamos nuestra máquina, vamos a ver que de forma automática se ejecuta el comando que se desee que, en mi caso, es abrir el navegador en pantalla completa. Eso sí, este puede tardar un poco.
 
+Ahora, solo falta ser capaces de encender y apagar en Windows por comandos un monitor, para ello primero debermos descargar [`NirCmd`](https://www.nirsoft.net/utils/nircmd.html), el cual nos ofrece comandos para gestionar todo esto. 
+Algo a tener en cuenta es que estos comandos estarán donde nosotros extrajimos nuestros archivos previamente descargados.
+Aquí, con un sencillo comando, podemos encender y apagar los monitores que nosotros queramos de la siguiente manera:
+
+```bat
+nircmd.exe monitor off <número_de_monitor> # Encender
+nircmd.exe monitor off <número_de_monitor> # Apagar
+```
 
 # 
 
