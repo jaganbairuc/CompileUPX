@@ -212,7 +212,7 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td>Continuación del sistema de Undo-Redo de la página de edición de imágenes simple.</td>
+    <td>Continuación del sistema de Undo-Redo de la página de edición de imágenes simple y edición de texto.</td>
     <td>6:30</td>
     <td></td>
   </tr>
