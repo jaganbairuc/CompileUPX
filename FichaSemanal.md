@@ -202,7 +202,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
+    <td>Reparación del sistema de imágenes automáticas para que el equipo no se vaya a sleep mode por inactividad + continuaciónde la página web de edición de imágenes solucionando errores y mejorar con elo su funcionamiento.</td>
     <td>6:30</td>
     <td></td>
   </tr>
