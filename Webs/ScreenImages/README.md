@@ -41,6 +41,7 @@ User=usuario
 Group=usuario
 Environment="PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"
 Environment="HOME=/home/usuario"
+Environment="DISPLAY=:0"
 Type=simple
 StandardOutput=syslog
 StandardError=syslog
