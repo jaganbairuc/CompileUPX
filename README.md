@@ -36,5 +36,5 @@ El centro cuenta con una página web algo antigua y con cosas a mejorar, por lo 
 Se requiere encontrar alguna forma para programar una música para ser reproducida en algún momento específico y, así, poder poner música para los estudiantes en los cambios de clase.
 
 ### Editor de imágenes por web
-Adicionalmente se me pide la creación de una nueva página web para el centro que sirva para editar imágenes como se desee para posteriormente poder ponerlo en pantalla completa.
+Adicionalmente se me pide la creación de una nueva página web para el centro que sirva para editar imágenes como se desee para posteriormente poder ponerlo en pantalla completa.<br>
 Este trabajo se encueentra en el directiroio [`./Webs/EditorDeImagenes`](./Webs/EditorDeImagenes).
