@@ -35,7 +35,6 @@ After=graphical.target
 
 [Service]
 ExecStart=/bin/bash /home/usuario/Command.sh
-User=usuario
 Restart=on-failure
 RestartSec=5
 User=usuario
