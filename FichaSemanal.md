@@ -132,11 +132,11 @@
   </tr>
     <td>MARTES</td>
     <td>Continuación de la web de edición de imágenes: solución de bugs e implementación del sistema de rotación.</td>
-    <td>6:30</td>
+    <td>6:00</td>
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td></td>
+    <td>Continuación de la web de edición de imágenes: solución del sistema de rotación y bugs varios.</td>
     <td>6:30</td>
     <td></td>
   </tr>
