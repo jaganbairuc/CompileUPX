@@ -127,7 +127,7 @@
   <tr>
     <td>LUNES</td>
     <td>Día no asistido por enfermedad</td>
-    <td>00:00</td>
+    <td>0:00</td>
     <td></td>
   </tr>
     <td>MARTES</td>
