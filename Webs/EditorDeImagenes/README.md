@@ -18,4 +18,4 @@ Cosas importantes a añadir:
 
 #
 
-Este proyecto, al ser más grande y relativamente ambicioso, he creado un repositorio aparte para este trabajo en concreto.
+Este proyecto, al ser más grande y relativamente ambicioso, he creado un [`repositorio aparte`](https://github.com/ZaneDevv/Image-Editor) para este trabajo en concreto.
