@@ -31,7 +31,8 @@ En mi caso personal con mi distribución no me funcionó, por lo que creé una a
 ```sh
 [Unit]
 Description=Runs once pc turns on
-After=graphical-session.target
+After=graphical.target
+Wants=graphical.target
 
 [Service]
 ExecStart=/bin/bash -c 'sleep 10 && /home/usuario/Command.sh'
@@ -42,12 +43,29 @@ Group=usuario
 Environment="PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"
 Environment="HOME=/home/usuario"
 Environment="DISPLAY=:0"
+Environment="XAUTHORITY=/home/usuario/.Xauthority"
 Type=simple
 StandardOutput=syslog
 StandardError=syslog
 
 [Install]
-WantedBy=default.target
+WantedBy=multi-user.target
+```
+
+Y, además, necesitaremos el siguiente código:
+
+```sh
+#!/bin/bash
+
+export DISPLAY=:0
+export XAUTHORITY=/home/usuario/.Xauthority
+
+until xset q >/dev/null 2>&1; do
+  sleep 2
+done
+
+
+/path/to/your-app-or-script
 ```
 
 Tras esto, debo ejecutar unos comandos para que me detecte el archivo y todo funcione:
