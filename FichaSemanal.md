@@ -127,11 +127,11 @@
   <tr>
     <td>LUNES</td>
     <td>Día no asistido</td>
-    <td>6:30</td>
+    <td>00:00</td>
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td></td>
+    <td>Continuación de la web de edición de imágenes: solución de bugs.</td>
     <td>6:30</td>
     <td></td>
   </tr>
