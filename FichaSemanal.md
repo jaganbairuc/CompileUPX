@@ -108,7 +108,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
+    <td>Añadido de imágenes automáticas en la pantalla del centro del instituto que se abren automáticamente al encender el equipo y continuación de la página web de edición de imágenes.</td>
     <td>6:30</td>
     <td></td>
   </tr>
