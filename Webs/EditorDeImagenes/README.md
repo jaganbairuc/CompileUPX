@@ -12,3 +12,7 @@ Cosas importantes a añadir:
   <li>Control de capas</li>
   <li>Botón para visualizar en pantalla completa la imagen creada</li>
 </ul>
+
+#
+
+Este proyecto, al ser más grande y relativamente ambicioso, he creado un repositorio aparte para este trabajo en concreto.
