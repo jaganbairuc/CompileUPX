@@ -108,7 +108,7 @@ Algo a tener en cuenta es que estos comandos estarán donde nosotros extrajimos 
 Aquí, con un sencillo comando, podemos encender y apagar los monitores que nosotros queramos de la siguiente manera:
 
 ```bat
-nircmd.exe monitor off <número_de_monitor> # Encender
+nircmd.exe monitor on <número_de_monitor> # Encender
 nircmd.exe monitor off <número_de_monitor> # Apagar
 ```
 
