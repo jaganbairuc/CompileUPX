@@ -164,7 +164,7 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
+    <td>Continuación de la página web de edición de imágenes.</td>
     <td>6:30</td>
     <td></td>
   </tr>
