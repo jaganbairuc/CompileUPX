@@ -142,8 +142,8 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td></td>
-    <td>6:30</td>
+    <td>Día no asistido por dificultades con el equipo.</td>
+    <td>00:00</td>
     <td></td>
   </tr>
     <td>VIERNES</td>
