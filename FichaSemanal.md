@@ -97,13 +97,13 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td>Instalación de un nuevo sistema operativo para el miniordenador de secreaaría y continuación de la página web de edición de imágenes: Insertado de textos, creación de nuevos proyectos y movimiento (zoom y desplazamiento) y creación/eliminación de capas.</td>
+    <td>Continuación de la página web de edición de imágenes: Insertado de textos, creación de nuevos proyectos y movimiento (zoom y desplazamiento) y creación/eliminación de capas.</td>
     <td>6:30</td>
     <td></td>
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Continuación de la web de edición de imágenes: movilidad por flechas en als capas, remover objetos seleccionándolos directamente en el sanvas en lugar de tener que buscar su layer.</td>
+    <td>Instalación de un nuevo sistema operativo para el miniordenador de secreataría y continuación de la web de edición de imágenes: movilidad por flechas en als capas, remover objetos seleccionándolos directamente en el sanvas en lugar de tener que buscar su layer.</td>
     <td>6:30</td>
     <td></td>
   </tr>
