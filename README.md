@@ -4,6 +4,9 @@ Mientras mis compañeros de prácticas estaban arreglando los ordenadores del ce
 Para que exista constancia de mi trabajo, creé este repositorio para subir la carpeta donde estoy guardando todos los archivos con los que estoy trabajando y así de paso tenerlos también en la nube y no úncamente en mi portátil.
 #
 ## 🖊️ Tareas realizadas:
+### Formulario de contacto para empresas en Wordpress
+La primera tarea en ser asignada para mi fue la realización de un formulario hecho en Wordpress para aquellas empresas que se quieran poner en contacto con el centro para que los próximos alumnos que hagan la FCT puedan ir a su empresa. Adicionalmente expliqué en lo que consistía un FCT engrosando un poco lo que la Junta de Andalucía explicaba y qué tipo de trabajadores pueden conseguir de este centro.
+
 ### Examinando páginas webs de centros escolares
 Una de mis primeras grandes tareas fue examinar las páginas webs de varios institutos, incluyendo donde yo estaba haciendo mi FCT, para ver lo que estaba bien hecho y lo qu estaba bien hecho. De esta forma, podría ver nuevas ideas y mejorar para la página web de mi centro en cuestión.<br>
 Estas tareas se encuentran en el directorio "Reviews".
