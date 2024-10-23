@@ -8,8 +8,11 @@ Para que exista constancia de mi trabajo, creé este repositorio para subir la c
 La primera tarea en ser asignada para mi fue la realización de un formulario hecho en Wordpress para aquellas empresas que se quieran poner en contacto con el centro para que los próximos alumnos que hagan la FCT puedan ir a su empresa. Adicionalmente expliqué en lo que consistía un FCT engrosando un poco lo que la Junta de Andalucía explicaba y qué tipo de trabajadores pueden conseguir de este centro.
 
 ### Examinando páginas webs de centros escolares
-Una de mis primeras grandes tareas fue examinar las páginas webs de varios institutos, incluyendo donde yo estaba haciendo mi FCT, para ver lo que estaba bien hecho y lo qu estaba bien hecho. De esta forma, podría ver nuevas ideas y mejorar para la página web de mi centro en cuestión.<br>
+Otra de mis primeras grandes tareas fue examinar las páginas webs de varios institutos, incluyendo donde yo estaba haciendo mi FCT, para ver lo que estaba bien hecho y lo qu estaba bien hecho. De esta forma, podría ver nuevas ideas y mejorar para la página web de mi centro en cuestión.<br>
 Estas tareas se encuentran en el directorio "Reviews".
+
+### Revisión técnica en una conferencia
+En mis primeros días vino Pablo García Abía, un físico e investigador del CIEMAT que vino a darnos una charla sobre ondas gravitacionales. Por lo que fui encargado  de revisar que todo funcionara (proyector, ordenador, micrófonos) y quedarme allí para revisar que todo fuera correctamente.
 
 ### Redes sociales: Estudio DAFO
 Otra tarea fue analizar las redes sociales del instituto y hacer un estudio DAFO para ver lo que se está haciendo bien y lo que se está haciendo mal. Así, dar una mejor impresión del centro desde fuera.
