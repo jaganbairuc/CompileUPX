@@ -12,7 +12,7 @@ Otra de mis primeras grandes tareas fue examinar las páginas webs de varios ins
 Estas tareas se encuentran en el directorio "Reviews".
 
 ### Revisión técnica en una conferencia
-En mis primeros días vino Pablo García Abía, un físico e investigador del CIEMAT. Vino a darnos una charla sobre ondas gravitacionales. Por lo que fui encargado  de revisar que todo funcionara (proyector, ordenador, micrófonos) y quedarme allí para revisar que todo fuera correctamente.
+En mis primeros días vino Pablo García Abía, un físico e investigador del CIEMAT. Vino a darnos una charla sobre ondas gravitacionales, por lo que fui encargado de revisar que todo funcionara (proyector, ordenador, micrófonos) y quedarme allí con la finalidad de revisar que todo funcionara correctamente.
 
 ### Redes sociales: Estudio DAFO
 Otra tarea fue analizar las redes sociales del instituto y hacer un estudio DAFO para ver lo que se está haciendo bien y lo que se está haciendo mal. Así, dar una mejor impresión del centro desde fuera.
