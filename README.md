@@ -22,7 +22,8 @@ La siguiente gran tarea a realizar fue un sistema para que una pantalla, tras se
 Esta tarea se puede encontrar en el directorio Webs/ScreenImages.
 
 ### Explicando el salón de actos
-También se me pidió realizar un pequeño manual para explicar cómo funciona el salón de actos del centro: cómo manejar el volúmen del ordenador, micrófonos, proyector... 
+También se me pidió realizar un pequeño manual para explicar cómo funciona el salón de actos del centro: cómo manejar el volúmen del ordenador, micrófonos, proyector... <br>
+Esta tarea se encuentra en el directorio <em>SalonDeActos</em>.
 
 ### Nueva página web
 El centro cuenta con una página web algo antigua y con cosas a mejorar, por lo que se requiere renovarla creando otra desde el inicio.
