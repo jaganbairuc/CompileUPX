@@ -1,3 +1,3 @@
 @echo off
 
-start "" chrome.exe www.youtube.com --start-fullscreen
+start "" chrome.exe ./index.html --start-fullscreen
