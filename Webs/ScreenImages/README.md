@@ -7,7 +7,6 @@ Para no dejar la pantalla sin uso alguno, se pensó que podría programarse de a
 
 Buscamos alguna forma de encender de forma automática un pequeño dispositivo conectado a la pantalla en cuestión, ya sea por una configuración, script u objeto externo. Posteriormente, generaremos un script en `batch` para abrir Google Chrome en pantalla completa, cosa que fue sorprendentemente sencillo:
 ```batch
-@echo off
 start "" chrome.exe --start-fullscreen
 ```
 Solo faltaría crear una página web para que, de una forma relativamente sencilla, puedas meter una fecha y hora para que se renderice una imagen cualquiera.
