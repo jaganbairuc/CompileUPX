@@ -11,9 +11,9 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
-    <td>6:30</td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
     <tr>
     <td>MARTES</td>
