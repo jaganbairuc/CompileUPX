@@ -11,36 +11,30 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
-    <tr>
     <td>MARTES</td>
-    <td></td>
-    <td>6:30</td>
+    <td>Vaciar la clase del curso de videojuegos</td>
+    <td>4:30</td>
     <td></td>
   </tr>
-    <tr>
     <td>MIÉRCOLES</td>
-    <td></td>
+    <td>Inicio de la página web del centro + investigación y creación de un formulario en Wordpress de contacto con empresas.</td>
     <td>6:30</td>
     <td></td>
   </tr>
-    <tr>
     <td>LUNES</td>
     <td></td>
     <td>6:30</td>
     <td></td>
   </tr>
-    <tr>
     <td>JUEVES</td>
     <td></td>
     <td>6:30</td>
     <td></td>
   </tr>
-    </tr>
-    <tr>
     <td>VIERNES</td>
     <td></td>
     <td>6:30</td>
