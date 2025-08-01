@@ -16,7 +16,7 @@
     <td></td>
   </tr>
     <td>MARTES</td>
-    <td>Vaciar la clase del curso de videojuegos</td>
+    <td>Vaciar la clase del curso de videojuegos, ordenar el aula <em>desdoble 2.2</em></td>
     <td>5:00</td>
     <td></td>
   </tr>
