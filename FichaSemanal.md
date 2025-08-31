@@ -59,7 +59,7 @@
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
-    <td>Creación del manual de uso del salón de actos.</td>
+    <td>Creación del manual de uso del salón de actos + estudio DAFO de las redes del centro.</td>
     <td>6:30</td>
     <td></td>
   </tr>
