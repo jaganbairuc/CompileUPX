@@ -11,8 +11,8 @@
   </thead>
   <tr>
     <td>LUNES</td>
-    <td></td>
-    <td></td>
+    <td>Día no asistido</td>
+    <td>0:00</td>
     <td></td>
   </tr>
     <td>MARTES</td>
