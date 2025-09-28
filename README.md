@@ -18,7 +18,8 @@ Estas tareas se encuentran en el directorio [./Reviews](https://github.com/ZaneD
 En mis primeros días vino Pablo García Abía, un físico e investigador del CIEMAT. Vino a darnos una charla sobre ondas gravitacionales, por lo que fui encargado de revisar que todo funcionara (proyector, ordenador, micrófonos) y quedarme allí con la finalidad de revisar que todo funcionara correctamente.
 
 ### Redes sociales: Estudio DAFO
-Otra tarea fue analizar las redes sociales del instituto y hacer un estudio DAFO para ver lo que se está haciendo bien y lo que se está haciendo mal. Así, dar una mejor impresión del centro desde fuera.
+Otra tarea fue analizar las redes sociales del instituto y hacer un estudio DAFO para ver lo que se está haciendo bien y lo que se está haciendo mal. Así, dar una mejor impresión del centro desde fuera.<br>
+Esta tarea se puede ver en el directorio [./SocialNetworks](https://github.com/ZaneDevv/FCT-Sistemas-microinformaticos-y-redes/tree/main/SocialNetworks).
 
 ### Diseño de web para poner automáticamente imágenes en una pantalla
 La siguiente gran tarea a realizar fue un sistema para que una pantalla, tras ser encendido un dispositivo, automáticamente acceda a una página local desde Google Chrome en "full screen". Esta página tendría un sistema para que, dadas una fecha y hora, se ponga una imágenes específica.<br> De esta forma se podría ajustar para que una pantalla que se encuentra en el lobby del instituto tenga unas imágenes específicas para cada día y hora.<br>
