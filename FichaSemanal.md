@@ -55,12 +55,12 @@
   </tr>
     <td>MARTES</td>
     <td>Estudio de la antigua y nueva página web del centro para revisar las cosas bien y mal realizadas y, así, poder mejorarla.<br> Estudiar también las páginas webs de otros centros educativos para aprender de sus errores y recolectar ideas tanto de contenido como de diseño.<br>Por último, acceder al salón de actos para recolectar el material suficiente como para hacer un manual.</td>
-    <td>6:45</td>
+    <td>6:30</td>
     <td></td>
   </tr>
     <td>MIÉRCOLES</td>
     <td>Creación del manual de uso del salón de actos, estudio DAFO de las redes del centro, creación del repositorio para compartir los archivos y continuación de la nueva página web del centro.</td>
-    <td>6:30</td>
+    <td>6:45</td>
     <td></td>
   </tr>
   <tr>
