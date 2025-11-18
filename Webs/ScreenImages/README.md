@@ -17,14 +17,18 @@ Para montar el proyecto y poder utilizar este proyecto, primero y, como es evide
 A continuación, deberemos ejecutar un par de comandos que, lo que hará, es:
 <ul>
   <li>Apagar el dispositivo a una hora específica unos días específicos.
+    
   ```batch
     schtasks /create /tn "ApagadoAutomatico" /tr "shutdown /s" /sc daily /st 20:00 /d MON,TUE,WED,THU,FRI
   ```
+
   </li>
   <li>Ejecutar el fichero `.bat` a una hora específica unos días específicos.
+    
   ```batch
     schtasks /create /tn "ApagadoAutomatico" /tr "start "" chrome.exe --start-fullscreen" /sc daily /st 20:00 /d MON,TUE,WED,THU,FRI
   ```
+
   </li>
 </ul>
 Estos comandos realmente no se requieres utilizar puesto que Windows te ofrece ya un pequeño menú para poder programar tareas y ejecutarlas de forma automática cuando se pida, pero para este caso, yo creo que viene bien los comandos.
