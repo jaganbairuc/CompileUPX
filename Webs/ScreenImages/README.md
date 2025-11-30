@@ -19,14 +19,14 @@ A continuación, deberemos ejecutar un par de comandos que, lo que hará, es:
   <li>Apagar el dispositivo a una hora específica unos días específicos.
     
   ```batch
-    schtasks /create /tn "ApagadoAutomatico" /tr "shutdown /s" /sc daily /st 20:00 /d MON,TUE,WED,THU,FRI
+  schtasks /create /tn "ApagadoAutomatico" /tr "shutdown /s" /sc daily /st 20:00 /d MON,TUE,WED,THU,FRI
   ```
 
   </li>
   <li>Ejecutar el fichero `.bat` a una hora específica unos días específicos.
     
   ```batch
-    schtasks /create /tn "ApagadoAutomatico" /tr "start "" chrome.exe --start-fullscreen" /sc daily /st 20:00 /d MON,TUE,WED,THU,FRI
+  schtasks /create /tn "ApagadoAutomatico" /tr "start "" chrome.exe --start-fullscreen" /sc daily /st 20:00 /d MON,TUE,WED,THU,FRI
   ```
 
   </li>
