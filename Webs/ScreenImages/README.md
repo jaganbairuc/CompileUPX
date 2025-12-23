@@ -13,7 +13,7 @@ Solo faltaría crear una página web para que, de una forma relativamente sencil
 
 ## 🔨 Setup
 
-Para montar el proyecto y poder utilizar este proyecto, primero y, como es evidente, se requiere guardar de forma local el código `index.html` junto a la carpeta de `Codes` y el código `OpenAutomaticallyWeb.bat` en el mismo directorio.<br>
+Para montar el proyecto y poder utilizar este proyecto, primero y, como es evidente, se requiere guardar de forma local el código `index.html` junto a la carpeta de `Codes` en el mismo directorio.<br>
 A continuación, deberemos ejecutar un par de comandos que, lo que hará, es:
 <ul>
   <li>Apagar el dispositivo a una hora específica unos días específicos.
@@ -32,3 +32,4 @@ A continuación, deberemos ejecutar un par de comandos que, lo que hará, es:
   </li>
 </ul>
 Estos comandos realmente no se requieres utilizar puesto que Windows te ofrece ya un pequeño menú para poder programar tareas y ejecutarlas de forma automática cuando se pida, pero para este caso, yo creo que viene bien los comandos.
+En su defecto, estos dos comandos se encentran en `OpenAutomaticallyWeb.bat`, por lo que basta con directamente ejecutar el archivo con permisos de administrador y listo. 
