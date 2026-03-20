@@ -32,4 +32,7 @@ A continuación, deberemos ejecutar un par de comandos que, lo que hará, es:
   </li>
 </ul>
 Estos comandos realmente no se requieres utilizar puesto que Windows te ofrece ya un pequeño menú para poder programar tareas y ejecutarlas de forma automática cuando se pida, pero para este caso, yo creo que viene bien los comandos.
-En su defecto, estos dos comandos se encentran en `OpenAutomaticallyWeb.bat`, por lo que basta con directamente ejecutar el archivo con permisos de administrador y listo. 
+En su defecto, estos dos comandos se encentran en `OpenAutomaticallyWeb.bat`, por lo que basta con directamente ejecutar el archivo con permisos de administrador y listo. <br><br>
+
+
+Como es evidente, para que estos comandos puedan ejecutarse a una hora en específico, debemos asegurarnos que nuestro dispositivo se encuentra encendido, por lo que nos deberemos meter a la BIOS y configurarlo.
