@@ -23,7 +23,7 @@ A continuación, deberemos ejecutar un par de comandos que, lo que hará, es:
   ```
 
   </li>
-  <li>Ejecutar el fichero `.bat` a una hora específica unos días específicos.
+  <li>Abrir la aplicación web local a una hora específica unos días específicos.
     
   ```batch
   schtasks /create /tn "AbrirAplicacion" /tr "start chrome.exe --start-fullscreen" /sc weekly /st 08:00 /d MON,TUE,WED,THU,FRI
