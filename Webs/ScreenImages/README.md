@@ -36,3 +36,7 @@ En su defecto, estos dos comandos se encentran en `OpenAutomaticallyWeb.bat`, po
 
 
 Como es evidente, para que estos comandos puedan ejecutarse a una hora en específico, debemos asegurarnos que nuestro dispositivo se encuentra encendido, por lo que nos deberemos meter a la BIOS y configurarlo.
+
+#
+
+Además, estas tareas se habrán creado junto al resto de tareas programadas, als cuales se pueden ver en el `Programador de Tareas`, por lo que si se eleminan, todo dejará de funcionar.
