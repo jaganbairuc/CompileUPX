@@ -3,40 +3,32 @@
 El centro tiene un problema: en la entrada principal cuentan con una pantalla sin uso, que simplemente se encuentra apagada como si de decoración se tratase.<br>
 Para no dejar la pantalla sin uso alguno, se pensó que podría programarse de alguna forma para que, de forma automática a una fecha y hora determinada, se ponga alguna imagen cualquiera.<br>
 
-#
+# 🔨 Setup
 
-Buscamos alguna forma de encender de forma automática un pequeño dispositivo conectado a la pantalla en cuestión, ya sea por una configuración, script u objeto externo. Posteriormente, generaremos un script en `batch` para abrir Google Chrome en pantalla completa, cosa que fue sorprendentemente sencillo:
-```batch
-start "" chrome.exe --start-fullscreen
+Para poder usar este sistema, primero se deberá descargar la carpeta `Codes` junto el `index.html` en el mismo directorio.
+Posteriormente, escribiremos los siguientes comandos:
+
+```bash
+contrab -e
 ```
-Solo faltaría crear una página web para que, de una forma relativamente sencilla, puedas meter una fecha y hora para que se renderice una imagen cualquiera.
 
-## 🔨 Setup
+```bash
+@reboot DISPLAY=:<Index de la pantalla> firefox <ubicación del index.html> --kiosk 
+```
 
-Para montar el proyecto y poder utilizar este proyecto, primero y, como es evidente, se requiere guardar de forma local el código `index.html` junto a la carpeta de `Codes` en el mismo directorio.<br>
-A continuación, deberemos ejecutar un par de comandos que, lo que hará, es:
-<ul>
-  <li>Apagar el dispositivo a una hora específica unos días específicos.
-    
-  ```batch
-  schtasks /create /tn "ApagadoAutomatico" /tr "shutdown /s" /sc weekly /st 20:00 /d MON,TUE,WED,THU,FRI
-  ```
+Con esto escrito, veremos que cada vez que encendemos nuestro dispositovo, automáticamente se abre firefox en nuestra página HTML. Aunque adicionalmente, nosotros también queremos que, una vez se encienda el dispositvo, se encienda una pantalla.<br>
+En este caso, usaremos el comando xrandr para realizar esta tarea. Pero antes requerimos conocer los identificados de cada pantalla mediante el siguiente comando:
 
-  </li>
-  <li>Abrir la aplicación web local a una hora específica unos días específicos.
-    
-  ```batch
-  schtasks /create /tn "AbrirAplicacion" /tr "start chrome.exe --start-fullscreen" /sc weekly /st 08:00 /d MON,TUE,WED,THU,FRI
-  ```
+```bash
+xrandr --listmonitors
+```
 
-  </li>
-</ul>
-Estos comandos realmente no se requieres utilizar puesto que Windows te ofrece ya un pequeño menú para poder programar tareas y ejecutarlas de forma automática cuando se pida, pero para este caso, yo creo que viene bien los comandos.
-En su defecto, estos dos comandos se encentran en `OpenAutomaticallyWeb.bat`, por lo que basta con directamente ejecutar el archivo con permisos de administrador y listo. <br><br>
+![image](https://github.com/user-attachments/assets/3e903e5a-4082-4ac6-8e93-d4ea35991284)
 
+Aquí nos interesa los identificadores que, en mi caso, me sale que para la primera pantalla es `XWAYLAND'` y, para la segunda, `XWAYLAND1`, por lo que usando el siguiente comando, podemos encender la pantalla con el mencionado identificador:
 
-Como es evidente, para que estos comandos puedan ejecutarse a una hora en específico, debemos asegurarnos que nuestro dispositivo se encuentra encendido, por lo que nos deberemos meter a la BIOS y configurarlo.
+```bash
+xrandr --output <identificador> --auto
+```
 
-#
-
-Además, estas tareas se habrán creado junto al resto de tareas programadas, als cuales se pueden ver en el `Programador de Tareas`, por lo que si se eleminan, todo dejará de funcionar.
+Esto, a continuación, puede ser que no nos funcione según qué tipo de distribución de Linux estemos utilizando. Por ejemplo, en mi caso, tengo Zorin OS, que usa GNOME y me genera problemas. Para ver si nos permite utilizar este comando `xrandr` correctamente, podemos ver si la variable `XDG_SESSION_TYPE` me da x11: si me da x11 podemos usar el mencionado comando, de lo contrario, si su valor `wayland`, tendremos que biscar alguna alternativa.
