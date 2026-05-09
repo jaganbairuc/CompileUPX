@@ -8,18 +8,18 @@ Para no dejar la pantalla sin uso alguno, se pensó que podría programarse de a
 Para poder usar este sistema, primero se deberá descargar la carpeta `Codes` junto el `index.html` en el mismo directorio.
 Posteriormente, escribiremos los siguientes comandos:
 
-```bash
+```sh
 contrab -e
 ```
 
-```bash
+```sh
 @reboot DISPLAY=:<Index de la pantalla> firefox <ubicación del index.html> --kiosk 
 ```
 
 Con esto escrito, veremos que cada vez que encendemos nuestro dispositovo, automáticamente se abre firefox en nuestra página HTML. Aunque adicionalmente, nosotros también queremos que, una vez se encienda el dispositvo, se encienda una pantalla.<br>
 En este caso, usaremos el comando xrandr para realizar esta tarea. Pero antes requerimos conocer los identificados de cada pantalla mediante el siguiente comando:
 
-```bash
+```sh
 xrandr --listmonitors
 ```
 
@@ -27,7 +27,7 @@ xrandr --listmonitors
 
 Aquí nos interesa los identificadores que, en mi caso, me sale que para la primera pantalla es `XWAYLAND'` y, para la segunda, `XWAYLAND1`, por lo que usando el siguiente comando, podemos encender la pantalla con el mencionado identificador:
 
-```bash
+```sh
 xrandr --output <identificador> --auto
 ```
 
