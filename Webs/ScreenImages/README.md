@@ -23,7 +23,9 @@ En este caso, usaremos el comando xrandr para realizar esta tarea. Pero antes re
 xrandr --listmonitors
 ```
 
-![image](https://github.com/user-attachments/assets/3e903e5a-4082-4ac6-8e93-d4ea35991284)
+<div align="center">
+  ![image](https://github.com/user-attachments/assets/3e903e5a-4082-4ac6-8e93-d4ea35991284)
+</div>
 
 Aquí nos interesa los identificadores que, en mi caso, me sale que para la primera pantalla es `XWAYLAND'` y, para la segunda, `XWAYLAND1`, por lo que usando el siguiente comando, podemos encender la pantalla con el mencionado identificador:
 
