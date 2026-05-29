@@ -31,4 +31,15 @@ Aquí nos interesa los identificadores que, en mi caso, me sale que para la prim
 xrandr --output <identificador> --auto
 ```
 
+Mezclándolo co n el comando anterior para que se ejecute una vez encedamos el ordenador, nos quedará la siguiente secuencia de comandos:
+
+```sh
+contrab -e
+```
+
+```sh
+@reboot DISPLAY=:<Index de la pantalla> xrandr --output <identificador> --auto firefox <ubicación del index.html> --kiosk 
+```
+
+
 Esto, a continuación, puede ser que no nos funcione según qué tipo de distribución de Linux estemos utilizando. Por ejemplo, en mi caso, tengo Zorin OS, que usa GNOME y me genera problemas. Para ver si nos permite utilizar este comando `xrandr` correctamente, podemos ver si la variable `XDG_SESSION_TYPE` me da x11: si me da x11 podemos usar el mencionado comando, de lo contrario, si su valor `wayland`, tendremos que biscar alguna alternativa.
