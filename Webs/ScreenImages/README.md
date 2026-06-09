@@ -41,5 +41,14 @@ contrab -e
 @reboot DISPLAY=:<Index de la pantalla> xrandr --output <identificador> --auto firefox <ubicación del index.html> --kiosk 
 ```
 
+Y, en caso de querer apagarlo, el comando es muy similar:
+
+```sh
+xrandr --output <identificador> --off
+```
+
+#
 
 Esto, a continuación, puede ser que no nos funcione según qué tipo de distribución de Linux estemos utilizando. Por ejemplo, en mi caso, tengo Zorin OS, que usa GNOME y me genera problemas. Para ver si nos permite utilizar este comando `xrandr` correctamente, podemos ver si la variable `XDG_SESSION_TYPE` me da x11: si me da x11 podemos usar el mencionado comando, de lo contrario, si su valor `wayland`, tendremos que biscar alguna alternativa.
+
+Cabe destacar adicionalmente que esto no funciona para encender y apagar un monitor como si se tratara del botón de encendido o apagado, sino que lo mete y saca del modo suspense.
