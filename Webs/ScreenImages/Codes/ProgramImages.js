@@ -19,7 +19,7 @@ function GetCurrentImage() {
   const month = currentdate.getMonth() + 1;
   const year = currentdate.getFullYear();
   
-  const hours = (currentdate.getHours() + 2) % 24;
+  const hours = currentdate.getHours();
   const minutes = currentdate.getMinutes();
 
   let leastDifference = -Infinity;
