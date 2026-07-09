@@ -60,7 +60,7 @@
   </tr>
     <td>MIÉRCOLES</td>
     <td>Creación del manual de uso del salón de actos, estudio DAFO de las redes del centro, creación del repositorio para compartir los archivos y continuación de la nueva página web del centro.</td>
-    <td>6:45</td>
+    <td>6:30</td>
     <td></td>
   </tr>
   <tr>
@@ -70,8 +70,8 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
-    <td>6:30</td>
+    <td>Investigar y probar el encendido automático de pantallas una vez un ordenador se encienda con bash y abrir en estas una página web local en pantalla completa.</td>
+    <td>6:45</td>
     <td></td>
   </tr>
 </table>
