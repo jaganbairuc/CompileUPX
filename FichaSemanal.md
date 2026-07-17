@@ -65,13 +65,13 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td></td>
-    <td>6:30</td>
+    <td>Investigar y probar el encendido automático de pantallas una vez un ordenador se encienda con bash y abrir en estas una página web local en pantalla completa.</td>
+    <td>6:45</td>
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td>Investigar y probar el encendido automático de pantallas una vez un ordenador se encienda con bash y abrir en estas una página web local en pantalla completa.</td>
-    <td>6:45</td>
+    <td></td>
+    <td>6:30</td>
     <td></td>
   </tr>
 </table>
