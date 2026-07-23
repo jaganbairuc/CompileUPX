@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td>JUEVES</td>
-    <td>Investigar y probar el encendido automático de pantallas una vez un ordenador se encienda con bash y abrir en estas una página web local en pantalla completa.</td>
+    <td>Investigar y probar el encendido automático de pantallas una vez un ordenador se encienda con bash y abrir en estas una página web local en pantalla completa + continuación de la página web del centro.</td>
     <td>6:45</td>
     <td></td>
   </tr>
