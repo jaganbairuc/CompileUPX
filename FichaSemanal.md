@@ -77,7 +77,7 @@
 </table>
 
 ### Semana 3
-#### Semana del 7 al 12 de abril de 2025
+#### Semana del 7 al 11 de abril de 2025
 <table>
   <thead>
     <th>DÍA</th>
