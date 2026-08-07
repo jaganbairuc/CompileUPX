@@ -70,7 +70,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td></td>
+    <td>Continuación en el desarrollo de la nueva web del centro.</td>
     <td>6:30</td>
     <td></td>
   </tr>
