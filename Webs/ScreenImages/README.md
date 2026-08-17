@@ -65,6 +65,9 @@ Esto ejecutará <Comando> cuando inicias el ordenador. En mi caso, esto quedará
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "OpenBrowser" /t REG_SZ /d "start chrome.exe index.html --start-fullscreen" /f
 ```
 
+schtasks /create /tn "FileMonitor" /sc onstart /delay 0000:30 /rl highest /ru system /tr "powershell.exe -file C:\Doc\Files\FileMonitor.ps1"
+
+
 # 
 
 Cabe destacar adicionalmente que esto no funciona para encender y apagar un monitor como si se tratara del botón de encendido o apagado, sino que lo mete y saca del modo suspense.
