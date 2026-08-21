@@ -53,19 +53,15 @@ Esto, a continuación, puede ser que no nos funcione según qué tipo de distrib
 
 # 🔨 Setup (Batch)
 
-En el caso de batch, para ejecutar un comando a la hora de iniciar nuestro ordenador es el siguiente:
+In Windows, it might change. We must first creat a .bat file with the command we want to run once the computer powers on. In my cas, it will be:
 
 ```bat
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "<Nombre de la tarea>" /t REG_SZ /d "<Comando>" /f
+@echo off
+start chrome.exe index.html --start-fullscreen
 ```
 
-Esto ejecutará <Comando> cuando inicias el ordenador. En mi caso, esto quedará de la siguiente manera:
-
-```bat
-reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "OpenBrowser" /t REG_SZ /d "start chrome.exe index.html --start-fullscreen" /f
-```
-
-schtasks /create /tn "FileMonitor" /sc onstart /delay 0000:30 /rl highest /ru system /tr "powershell.exe -file C:\Doc\Files\FileMonitor.ps1"
+Now, we must place this file in a specific directory where we can access by writing in the executor (`Windows+R`) the command `shell:startup`.<br>
+Now, if we reboot our system, we will see than once the computer powers on, the command above runs automatically. Nevertheless, it takes some time to be executed.
 
 
 # 
