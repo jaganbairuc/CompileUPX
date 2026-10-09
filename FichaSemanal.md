@@ -70,7 +70,7 @@
     <td></td>
   </tr>
     <td>VIERNES</td>
-    <td>Continuación en el desarrollo de la nueva web del centro.</td>
+    <td>Continuación en el desarrollo de la nueva web del centro, hacer que en la televisión de la sala de profesores aparezca al encenderse de forma automática una aplicación web local que va poniendo imágenes cada cierto tiempo + aplicar mismo sistema a la televisión del centro.</td>
     <td>6:30</td>
     <td></td>
   </tr>
