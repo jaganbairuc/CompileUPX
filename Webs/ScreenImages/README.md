@@ -53,15 +53,15 @@ Esto, a continuación, puede ser que no nos funcione según qué tipo de distrib
 
 # 🔨 Setup (Batch)
 
-In Windows, it might change. We must first creat a .bat file with the command we want to run once the computer powers on. In my cas, it will be:
+En Windows esto puede cambiar. Primero debemos crear un archivo .bat con el comando que queremos ejecutar una vez el dispositivo se encienda. En mi caso, es el siguiente:
 
 ```bat
 @echo off
 start chrome.exe index.html --start-fullscreen
 ```
 
-Now, we must place this file in a specific directory where we can access by writing in the executor (`Windows+R`) the command `shell:startup`.<br>
-Now, if we reboot our system, we will see than once the computer powers on, the command above runs automatically. Nevertheless, it takes some time to be executed.
+A continuación, debemos poner este archivo en un directorio específico. Para ello nos vamos a ejecutar un comando para irnos a la ruta (`Windows+R`) poniendo `shell:startup`.<br>
+Ahora, si reiniciamos nuestra máquina, vamos a ver que de forma automática se ejecuta el comando que se desee que, en mi caso, es abrir el navegador en pantalla completa. Eso sí, este puede tardar un poco.
 
 
 # 
