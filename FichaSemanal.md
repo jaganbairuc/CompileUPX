@@ -113,3 +113,42 @@
     <td></td>
   </tr>
 </table>
+
+
+### Semana 4
+#### Semana del 21 al 25 de abril de 2025
+<table>
+  <thead>
+    <th>DÍA</th>
+    <th>ACTIVIDAD DESARROLLADA</th>
+    <th>TIEMPO EMPLEADO</th>
+    <th>OBSERVACIONES</th>
+  </thead>
+  <tr>
+    <td>LUNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MARTES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>MIÉRCOLES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JUEVES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+    <td>VIERNES</td>
+    <td></td>
+    <td>6:30</td>
+    <td></td>
+  </tr>
+</table>
