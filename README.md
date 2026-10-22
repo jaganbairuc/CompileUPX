@@ -4,7 +4,7 @@ Mientras mis compañeros de prácticas estaban arreglando los ordenadores del ce
 Para que exista constancia de mi trabajo, creé este repositorio para subir la carpeta donde estoy guardando todos los archivos con los que estoy trabajando y así de paso tenerlos también en la nube y no úncamente en mi portátil.
 <br>
 <br>
-Adicionalmente, en la [ficha semanal](https://github.com/ZaneDevv/FCT-Sistemas-microinformaticos-y-redes/blob/main/FichaSemanal.md) se encuentra un todo realizado día a día junto el tiempo tomado para cada día realizar las tareas. 
+Adicionalmente, en la `[ficha semanal](./FichaSemanal.md)` se encuentra un todo realizado día a día junto el tiempo tomado para cada día realizar las tareas. 
 #
 ## 🖊️ Tareas realizadas:
 ### Formulario de contacto para empresas en Wordpress
