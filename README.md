@@ -4,7 +4,7 @@ Mientras mis compañeros de prácticas estaban arreglando los ordenadores del ce
 Para que exista constancia de mi trabajo, creé este repositorio para subir la carpeta donde estoy guardando todos los archivos con los que estoy trabajando y así de paso tenerlos también en la nube y no úncamente en mi portátil.
 <br>
 <br>
-Adicionalmente, en la [ficha semanal](./FichaSemanal.md) se encuentra un todo realizado día a día junto el tiempo tomado para cada día realizar las tareas. 
+Adicionalmente, en la [`ficha semanal`](./FichaSemanal.md) se encuentra un todo realizado día a día junto el tiempo tomado para cada día realizar las tareas. 
 #
 ## 🖊️ Tareas realizadas:
 ### Formulario de contacto para empresas en Wordpress
@@ -12,22 +12,22 @@ La primera tarea en ser asignada para mi fue la realización de un formulario he
 
 ### Examinando páginas webs de centros escolares
 Otra de mis primeras grandes tareas fue examinar las páginas webs de varios institutos, incluyendo donde yo estaba haciendo mi FCT, para ver lo que estaba bien hecho y lo qu estaba bien hecho. De esta forma, podría ver nuevas ideas y mejorar para la página web de mi centro en cuestión.<br>
-Estas tareas se encuentran en el directorio [./Reviews](https://github.com/ZaneDevv/FCT-Sistemas-microinformaticos-y-redes/tree/main/Reviews).
+Estas tareas se encuentran en el directorio [`./Reviews`](./Reviews).
 
 ### Revisión técnica en una conferencia
 En mis primeros días vino Pablo García Abía, un físico e investigador del CIEMAT. Vino a darnos una charla sobre ondas gravitacionales, por lo que fui encargado de revisar que todo funcionara (proyector, ordenador, micrófonos) y quedarme allí con la finalidad de revisar que todo funcionara correctamente.
 
 ### Redes sociales: Estudio DAFO
 Otra tarea fue analizar las redes sociales del instituto y hacer un estudio DAFO para ver lo que se está haciendo bien y lo que se está haciendo mal. Así, dar una mejor impresión del centro desde fuera.<br>
-Esta tarea se puede ver en el directorio [./SocialNetworks](https://github.com/ZaneDevv/FCT-Sistemas-microinformaticos-y-redes/tree/main/SocialNetworks).
+Esta tarea se puede ver en el directorio [`./SocialNetworks`](./SocialNetworks).
 
 ### Diseño de web para poner automáticamente imágenes en una pantalla
 La siguiente gran tarea a realizar fue un sistema para que una pantalla, tras ser encendido un dispositivo, automáticamente acceda a una página local desde Google Chrome en "full screen". Esta página tendría un sistema para que, dadas una fecha y hora, se ponga una imágenes específica.<br> De esta forma se podría ajustar para que una pantalla que se encuentra en el lobby del instituto tenga unas imágenes específicas para cada día y hora.<br>
-Esta tarea se puede encontrar en el directorio [./Webs/ScreenImages](https://github.com/ZaneDevv/FCT-Sistemas-microinformaticos-y-redes/tree/main/Webs/ScreenImages).
+Esta tarea se puede encontrar en el directorio [`./Webs/ScreenImages`](./Webs/ScreenImages).
 
 ### Explicando el salón de actos
 También se me pidió realizar un pequeño manual para explicar cómo funciona el salón de actos del centro: cómo manejar el volúmen del ordenador, micrófonos, proyector... <br>
-Esta tarea se encuentra en el directorio [./SalonDeActos](https://github.com/ZaneDevv/FCT-Sistemas-microinformaticos-y-redes/tree/main/SalonDeActos).
+Esta tarea se encuentra en el directorio [`./SalonDeActos`](./SalonDeActos).
 
 ### Nueva página web
 El centro cuenta con una página web algo antigua y con cosas a mejorar, por lo que se requiere renovarla creando otra desde el inicio.
