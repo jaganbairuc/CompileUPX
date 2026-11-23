@@ -31,3 +31,6 @@ Esta tarea se encuentra en el directorio [`./SalonDeActos`](./SalonDeActos).
 
 ### Nueva página web
 El centro cuenta con una página web algo antigua y con cosas a mejorar, por lo que se requiere renovarla creando otra desde el inicio.
+
+### Música programable
+Se requiere encontrar alguna forma para programar una música para ser reproducida en algún momento específico y, así, poder poner música para los estudiantes en los cambios de clase.
